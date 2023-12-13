@@ -57,7 +57,7 @@ const highlightStyle = new Style({
 
 const vectorLayer = new VectorLayer({
   source: new VectorSource({
-    url: "./data/farmboundary.geojson",
+    url: "/data/farmboundary.geojson",
     format: new GeoJSON(),
   }),
   style: defaultStyle, // Apply default style to all features
@@ -67,7 +67,7 @@ map.addLayer(vectorLayer);
 // Create a point layer
 const pointLayer = new VectorLayer({
   source: new VectorSource({
-    url: "./data/infrastructures.geojson", // Replace with the path to your point layer GeoJSON file
+    url: "/data/infrastructures.geojson", // Replace with the path to your point layer GeoJSON file
     format: new GeoJSON(),
   }),
   style: new Style({
