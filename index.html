@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/x-icon" href="https://openlayers.org/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>FIF GIS Web Map</title>
+</head>
+
+<body>
+  <!-- Top bar with title -->
+  <div id="top-bar">
+    <div class="container">
+      <h1>DKIS Interactive GIS Database of Farmlands and Infrastructures by FIF</h1>
+    </div>
+  </div>
+  <div id="map"></div>
+  <div id="popup" class="ol-popup">
+    <a href="#" id="popup-closer" class="ol-popup-closer"></a>
+    <div id="popup-content"></div>
+  </div>
+  <!-- Sidebar -->
+  <div id="sidebar">
+    <h2>Farmers Database</h2>
+
+    <!-- Filter Form -->
+    <form id="filter-form">
+      <label for="filter-input">Filter by Name:</label>
+      <input type="text" id="filter-input" name="filter-input" placeholder="Type to filter...">
+    </form>
+
+    <!-- Feature Table -->
+    <table id="feature-table">
+      <thead>
+        <tr>
+          <th>SN</th>
+          <th>Name</th>
+          <th>Age</th>
+          <th>ID</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </div>
+
+  <script type="module" src="./main.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,180 @@
+@import "node_modules/ol/ol.css";
+
+html, body {
+  margin: 0;
+  height: 100%;
+}
+#map {
+  position: absolute;
+  top: 50px;
+  bottom: 0;
+  left: 0;
+  right: 300px;
+  width: 100%;
+}
+
+.myButton {
+  background: rgb(23, 217, 33, 0.5);
+  color: rgb(33, 30, 30) !important;
+  font-weight: bolder;
+  text-align: center;
+  height: 40px;
+  width: auto !important;
+  border-radius: 2px;
+  border: brown;
+  align-items: center;
+  cursor: pointer;
+}
+
+.myButton:hover {
+  background-color: rgb(0, 60, 136, 0.3);
+}
+
+.myButton.unclicked {
+  background-color: rgb(27, 85, 167, 0.3);
+}
+
+.myButton.clicked {
+  background-color: rgb(22, 170, 35, 0.8);
+}
+
+.myButton.clicked:hover {
+  background-color: rgb(22, 170, 35, 0.8);
+}
+
+.dkisButtonnDiv {
+  position: relative;
+  display: block;
+  width: 200px;
+  margin: 30px auto auto 10px;
+}
+
+.homeButtonDiv {
+  position: relative;
+  display: block;
+  width: 120px;
+  margin: 80px auto auto 10px;
+}
+
+
+/* ol-popup styling */
+/* ol-popup styling */
+.ol-popup {
+  position: absolute;
+  background-color: rgba(255, 255, 255, 0.9); /* Adjust the alpha value for transparency */
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  position: relative; /* Make it a positioned container for absolute positioning of arrow */
+  line-height: 0.2; /* Adjust line height as needed */
+}
+
+/* Arrow styling */
+.ol-popup:after {
+  content: '';
+  position: absolute;
+  top: 100%; /* Position arrow below the popup */
+  left: 50%;
+  margin-left: -10px; /* Adjust based on the arrow size */
+  border-width: 10px;
+  border-style: solid;
+  border-color: transparent transparent rgba(255, 255, 255, 0.9) transparent; /* Arrow color */
+}
+
+.ol-popup-closer {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 5px;
+  cursor: pointer;
+}
+
+/* Top bar styling */
+#top-bar {
+  background-color: #1a2b39; /* Choose a background color for the top bar */
+  color: #ffffff; /* Text color */
+  padding: 10px 0;
+  text-align: left;
+  z-index: 1000; /* Ensure the top bar is above other elements */
+}
+
+#top-bar h1 {
+  margin: 0;
+  font-size: 18px; /* Adjust the font size */
+}
+
+/* Container styling for centering content */
+.container {
+  max-width: 1200px; /* Adjust the maximum width of the container */
+  margin: 0 auto; /* Center the container horizontally */
+}
+
+/* Sidebar styling */
+#sidebar {
+  width: 300px;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  right: 0;
+  background-color: #fff;
+  box-shadow: -5px 0 10px rgba(0, 0, 0, 0.1);
+  overflow-y: auto;
+  padding: 20px;
+}
+
+#feature-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+#feature-table th, #feature-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+/* Sidebar styling */
+#sidebar {
+  /* Your existing styles */
+
+  /* Add padding to the filter form */
+  padding-bottom: 20px;
+}
+
+/* Filter Form styling */
+#filter-form {
+  margin-bottom: 10px;
+}
+
+#filter-input {
+  width: 100%;
+  padding: 8px;
+  box-sizing: border-box;
+}
+
+/* Add a media query to hide the sidebar on medium-sized screens */
+@media screen and (max-width: 768px) {
+  #sidebar {
+    display: none;
+  }
+
+  .dkisButtonnDiv {
+    margin: 20px auto auto 10px;
+  }
+  
+  .homeButtonDiv {
+    margin: 60px auto auto 10px;
+  }
+
+  #top-bar {
+    text-align: center;
+  }
+  
+  #top-bar h1 {
+    margin: 0;
+    font-size: 14px; /* Adjust the font size */
+  }
+  
+  
+}

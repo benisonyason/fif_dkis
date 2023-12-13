@@ -1,0 +1,1620 @@
+{
+  "type": "FeatureCollection",
+  "name": "infrastructures",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "10:08:20.000",
+        "Location_o": "Phase 1 Canal 13",
+        "Type_of_In": "Diversion-Structures",
+        "Type_of__1": null,
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=13BNSM6vyt-fPJLFbU4WraTS2Ou0-oBz6",
+        "Doe this i": "yes",
+        "Please cap": "10.28919,11.507835",
+        "Please c_1": "244.9",
+        "condition": "Not working"
+      },
+      "geometry": { "type": "Point", "coordinates": [11.507835, 10.28919, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "10:08:20.000",
+        "Location_o": "DKIS PHASE 1",
+        "Type_of_In": "other",
+        "Type_of__1": "Secondary cal point",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1Aaxj-XjVS8gBhGLdZsulj0TxrVo8r3DB",
+        "Doe this i": "yes",
+        "Please cap": "10.288163333333333,11.508379999999999",
+        "Please c_1": "209.6",
+        "condition": "Not working"
+      },
+      "geometry": { "type": "Point", "coordinates": [11.50838, 10.28816, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "10:08:20.000",
+        "Location_o": "DKIS PHASE 1",
+        "Type_of_In": "other",
+        "Type_of__1": "End secondary canal",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1HX9iKAUp_tUtBnBFzJHeMKntVAvTpRwg",
+        "Doe this i": "yes",
+        "Please cap": "10.287165,11.507779999999999",
+        "Please c_1": "215.4",
+        "condition": "Not working"
+      },
+      "geometry": { "type": "Point", "coordinates": [11.50778, 10.28716, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "10:08:20.000",
+        "Location_o": "DKIS PHASE 1",
+        "Type_of_In": "other",
+        "Type_of__1": "End secondary canal 2",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1fM6TefadVZ9RkZjcP-UdscZoJ_cIjVaW",
+        "Doe this i": "yes",
+        "Please cap": "10.286525000000001,11.509505",
+        "Please c_1": "222.7",
+        "condition": "Not working"
+      },
+      "geometry": { "type": "Point", "coordinates": [11.509505, 10.28652, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "10:08:20.000",
+        "Location_o": "DKIS PHASE 1",
+        "Type_of_In": "other",
+        "Type_of__1": "Secondary canal 3",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1ll_2mFSEy_X-UTd7MTl1907zXSiz0LWw",
+        "Doe this i": "yes",
+        "Please cap": "10.289816666666667,11.509681666666665",
+        "Please c_1": "266.8",
+        "condition": "Not working"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.509681666666665, 10.28981, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "10:08:20.000",
+        "Location_o": "DKIS PHASE 1",
+        "Type_of_In": "other",
+        "Type_of__1": "UOA OFFICE",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1twZeY5W6XrSMqXBaJW2VlXT3fVAvzLSb",
+        "Doe this i": "yes",
+        "Please cap": "10.289993333333333,11.509244999999998",
+        "Please c_1": "259.4",
+        "condition": "Not in use"
+      },
+      "geometry": { "type": "Point", "coordinates": [11.509245, 10.28999, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "10:08:20.000",
+        "Location_o": "DKIS PHASE 1",
+        "Type_of_In": "other",
+        "Type_of__1": "NET STATION",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1mWjjcQRLrZ_MBfMr6-PQEa6UZ6z5YBNZ",
+        "Doe this i": "yes",
+        "Please cap": "10.290265,11.509233333333334",
+        "Please c_1": "263.9",
+        "condition": "Not Working"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.509233333333334, 10.29026, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "10:08:20.000",
+        "Location_o": "DKIS PHASE 1",
+        "Type_of_In": "other",
+        "Type_of__1": "Small scale rice mill",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1tRg6TZ-JxCiFZunbIxmKgxXuuA3S7w51",
+        "Doe this i": "yes",
+        "Please cap": "10.290656666666667,11.508395",
+        "Please c_1": "223.2",
+        "condition": "Working"
+      },
+      "geometry": { "type": "Point", "coordinates": [11.508395, 10.29065, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "10:08:20.000",
+        "Location_o": "DKIS PHASE 1",
+        "Type_of_In": "other",
+        "Type_of__1": "Mail entrance gate",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1-_5zXchMm5jPoiOi4WHt8dQ1BDBHwkE3",
+        "Doe this i": "yes",
+        "Please cap": "10.290358333333334,11.50871",
+        "Please c_1": "220.6",
+        "condition": "Faulty"
+      },
+      "geometry": { "type": "Point", "coordinates": [11.50871, 10.29035, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "10:08:20.000",
+        "Location_o": "DKIS PHASE 1",
+        "Type_of_In": "other",
+        "Type_of__1": "Farm entrance gate",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1a4AjManHouKu96MgfdL13JUhQMoSSviB",
+        "Doe this i": "yes",
+        "Please cap": "10.29227,11.510038333333334",
+        "Please c_1": "236.2",
+        "condition": "Entrance road 360 1427"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.510038333333334, 10.29227, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "10:08:20.000",
+        "Location_o": "DKIS PHASE 1",
+        "Type_of_In": "other",
+        "Type_of__1": "Distribution box/intake box",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1uIoSpIsNxDxCPPqXxDSnL6B2hjQsQLj2",
+        "Doe this i": "yes",
+        "Please cap": "10.292255,11.510151666666665",
+        "Please c_1": "229.7",
+        "condition": "Not working"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.510151666666665, 10.29225, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "11:08:20.000",
+        "Location_o": "DKIS PHASE 1",
+        "Type_of_In": "other",
+        "Type_of__1": "Farm Solar light",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1ThJHtgX3qwz_YrciyjndHJADjLWoQxtB",
+        "Doe this i": "yes",
+        "Please cap": "10.293318333333334,11.519839999999999",
+        "Please c_1": "229.7",
+        "condition": "Working"
+      },
+      "geometry": { "type": "Point", "coordinates": [11.51984, 10.29331, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "11:08:20.000",
+        "Location_o": "DKIS",
+        "Type_of_In": "other",
+        "Type_of__1": "Central submersible pump",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1fYFNDKRlBaRNr2-OGiZWj_n4NLWgYqrI",
+        "Doe this i": "yes",
+        "Please cap": "10.293209999999998,11.520408333333334",
+        "Please c_1": "200",
+        "condition": "Working"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.520408333333334, 10.2932, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "11:08:20.000",
+        "Location_o": "DKIS",
+        "Type_of_In": "other",
+        "Type_of__1": "Forestry intake canal",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1c772Imq_FTHZg6GScpFPICYDpNB211k5",
+        "Doe this i": "yes",
+        "Please cap": "10.293295,11.520133333333336",
+        "Please c_1": "225.2",
+        "condition": "Not working"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.520133333333336, 10.29329, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "11:08:20.000",
+        "Location_o": "DKIS",
+        "Type_of_In": "other",
+        "Type_of__1": "Forestry office",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1SmfmT7aLoM3m8oU1XNMy7Ck8SQDXfR5r",
+        "Doe this i": "yes",
+        "Please cap": "10.296641666666666,11.51543",
+        "Please c_1": "302.2",
+        "condition": "Not working"
+      },
+      "geometry": { "type": "Point", "coordinates": [11.51543, 10.29664, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "11:08:20.000",
+        "Location_o": "DKIS",
+        "Type_of_In": "other",
+        "Type_of__1": "Diesel pumping machine",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1i9wPeocaG5he2N7-p6BUzSNAQic67eeT",
+        "Doe this i": "yes",
+        "Please cap": "10.298219999999999,11.514176666666666",
+        "Please c_1": "223.5",
+        "condition": "Not working"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.514176666666666, 10.29821, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "11:08:20.000",
+        "Location_o": "DKIS",
+        "Type_of_In": "other",
+        "Type_of__1": "Farm Irrigation Reservoir",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1SORXvAXLRz1gP5kV2_-VjtkD5up3LfBi",
+        "Doe this i": "yes",
+        "Please cap": "10.283106666666667,11.506398333333333",
+        "Please c_1": "647.2",
+        "condition": "Reservoir that supply water to the farm 24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.506398333333333, 10.2831, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "11:08:20.000",
+        "Location_o": "DKIS",
+        "Type_of_In": "other",
+        "Type_of__1": "Not equipped radio station",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1AaiJbpYwPd_gKxfjMx1l98lzKsfMUddq",
+        "Doe this i": "yes",
+        "Please cap": "10.286643333333334,11.507303333333335",
+        "Please c_1": "212.8",
+        "condition": "Not working Radio station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.507303333333335, 10.28664, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "11:08:20.000",
+        "Location_o": "DKIS",
+        "Type_of_In": "other",
+        "Type_of__1": "Mechanical Workshop",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1C5Gdy1WhPCtlfGtRHtj3ocEEOWQQ_wVF",
+        "Doe this i": "yes",
+        "Please cap": "10.286286666666665,11.5071",
+        "Please c_1": "202.1",
+        "condition": "Under reconstruction"
+      },
+      "geometry": { "type": "Point", "coordinates": [11.5071, 10.28628, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "11:08:20.000",
+        "Location_o": "DKIS",
+        "Type_of_In": "other",
+        "Type_of__1": "Central store",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1zUoovu3nXEfiUlX3b6YG8_pBpK-RD5v3",
+        "Doe this i": "yes",
+        "Please cap": "10.286161666666667,11.506493333333333",
+        "Please c_1": "257.6",
+        "condition": "Not functioning central store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.506493333333333, 10.28616, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "12:08:20.000",
+        "Location_o": "DKIS PHASE 1",
+        "Type_of_In": "other",
+        "Type_of__1": "Dam staff quarters",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1UvL_X_dZqQzBHGle2lmadHouLAUm8QmU",
+        "Doe this i": "yes",
+        "Please cap": "10.299246666666667,11.483348333333334",
+        "Please c_1": "291.8",
+        "condition": "One of the staff quarters building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.483348333333334, 10.29924, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "12:08:20.000",
+        "Location_o": "DKIS PHASE 1",
+        "Type_of_In": "other",
+        "Type_of__1": "Staff  quarter's main road",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1R0y_lydVUKTLQJnS90cpRC6tAs9z3g_n",
+        "Doe this i": "yes",
+        "Please cap": "10.299376666666666,11.482538333333332",
+        "Please c_1": "282",
+        "condition": "Staff quarters main entrance road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.482538333333332, 10.29937, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "12:08:20.000",
+        "Location_o": "DKIS",
+        "Type_of_In": "other",
+        "Type_of__1": "Staff quarters Nursery and primary school",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1lMnrzsUwqv8z9lg2vzJH4DxnN7enmqtS",
+        "Doe this i": "yes",
+        "Please cap": "10.300933333333335,11.482575",
+        "Please c_1": "277.8",
+        "condition": "Functioning"
+      },
+      "geometry": { "type": "Point", "coordinates": [11.482575, 10.30093, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "12:08:20.000",
+        "Location_o": "DKIS PHASE 1",
+        "Type_of_In": "other",
+        "Type_of__1": "Solar water tanks",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1MUI4qkWpUC8XilkPhdQh8THp7G8gFoHM",
+        "Doe this i": "yes",
+        "Please cap": "10.301533333333333,11.482866666666666",
+        "Please c_1": "287.3",
+        "condition": "Functioning"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.482866666666666, 10.30153, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "12:08:20.000",
+        "Location_o": "DKIS PHASE 1",
+        "Type_of_In": "other",
+        "Type_of__1": "Staff quarters machine warehouse",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1dmfo7eRd76cqL_8js3xWjzMH5cfosmbX",
+        "Doe this i": "yes",
+        "Please cap": "10.30087,11.483341666666668",
+        "Please c_1": "293.3",
+        "condition": "Not working"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.483341666666668, 10.30087, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "12:08:20.000",
+        "Location_o": "DKIS",
+        "Type_of_In": "other",
+        "Type_of__1": "World Bank Trimming Residents Quarters",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1MX7DtYHPzDuil47idjPx4kEz375cE6LH",
+        "Doe this i": "yes",
+        "Please cap": "10.301518333333332,11.479960000000002",
+        "Please c_1": "226.3",
+        "condition": "Working"
+      },
+      "geometry": { "type": "Point", "coordinates": [11.47996, 10.30151, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "12:08:20.000",
+        "Location_o": "DKIS PHASE 1",
+        "Type_of_In": "other",
+        "Type_of__1": "Upper Benue Power House. (Generator/Transformer)",
+        "Number_of": 2,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1AI9aXgd3z3nlpbFKiTzwK8atRiCCGRyO",
+        "Doe this i": "yes",
+        "Please cap": "10.300323333333333,11.480885",
+        "Please c_1": "330.2",
+        "condition": "The power house is functioning"
+      },
+      "geometry": { "type": "Point", "coordinates": [11.480885, 10.30032, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "12:08:20.000",
+        "Location_o": "DKIS PHASE 1",
+        "Type_of_In": "other",
+        "Type_of__1": "Entrance gate to upper Benue staff quarters",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1XJS0ZLtu-vLOL2-sszTFTEwYBTtVTQxb",
+        "Doe this i": "yes",
+        "Please cap": "10.298843333333334,11.485563333333335",
+        "Please c_1": "305.3",
+        "condition": "Working"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.485563333333335, 10.29884, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "12:08:20.000",
+        "Location_o": "DKIS PHASE 1",
+        "Type_of_In": "other",
+        "Type_of__1": "Dam",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1IGxOOmW4eHYXtTi3nIPOyWlP-HUfhZSD",
+        "Doe this i": "yes",
+        "Please cap": "10.321908333333333,11.481076666666668",
+        "Please c_1": "328.2",
+        "condition": "The dam. Mainly for irrigation, domestic water supply and hydroppwer generation. Flood control."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.481076666666668, 10.3219, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "12:08:20.000",
+        "Location_o": "DKIS PHASE 1",
+        "Type_of_In": "other",
+        "Type_of__1": "Monuments",
+        "Number_of": 8,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=17UNed1hAA12HXpciAtj_vdfh4x2lfnLU",
+        "Doe this i": "yes",
+        "Please cap": "10.321771666666667,11.480640000000001",
+        "Please c_1": "376.1",
+        "condition": "It is used for checking horizontal and Vatical deflection of the dam."
+      },
+      "geometry": { "type": "Point", "coordinates": [11.48064, 10.32177, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "12:08:20.000",
+        "Location_o": "DKIS PHASE 1",
+        "Type_of_In": "other",
+        "Type_of__1": "Dam Power Station",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1173g_P-gcREUOkZFiCvxgHpAFimjp9Cz",
+        "Doe this i": "yes",
+        "Please cap": "10.31885,11.480385000000002",
+        "Please c_1": "556.8",
+        "condition": "Power station transmit 40 megawats to national grid"
+      },
+      "geometry": { "type": "Point", "coordinates": [11.480385, 10.31885, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "12:08:20.000",
+        "Location_o": "Dadinko dam",
+        "Type_of_In": "other",
+        "Type_of__1": "Dam office",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1vCfYJqYcj7O5YLFG-_mdE0UnAhlOWD_3",
+        "Doe this i": "yes",
+        "Please cap": "10.318735,11.480078333333331",
+        "Please c_1": "551.4",
+        "condition": "Functioning"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.480078333333331, 10.31873, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "12:08:20.000",
+        "Location_o": "DKIS",
+        "Type_of_In": "other",
+        "Type_of__1": "Old dam office",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=17xCzKal9zChIfLtOpfM0-knPmmz4Xf08",
+        "Doe this i": "yes",
+        "Please cap": "10.316698333333333,11.473798333333331",
+        "Please c_1": "273.2",
+        "condition": "Old. Dam office but no longer in use"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.473798333333331, 10.31669, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "12:08:20.000",
+        "Location_o": "DKIS dam",
+        "Type_of_In": "other",
+        "Type_of__1": "Dam store",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=138ogtrrn9_V6Us-iR-NFiCHRd7ZPQZIz",
+        "Doe this i": "yes",
+        "Please cap": "10.316116666666666,11.473821666666668",
+        "Please c_1": "262.6",
+        "condition": "Dam store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.473821666666668, 10.31611, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "12:08:20.000",
+        "Location_o": "DKIS dam",
+        "Type_of_In": "other",
+        "Type_of__1": "Dam Water Hose",
+        "Number_of": 13,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1JGGkObp75kwOH6EgpdXLdxrN2zEQ7VPz",
+        "Doe this i": "yes",
+        "Please cap": "10.316118333333332,11.47347",
+        "Please c_1": "262.7",
+        "condition": "Dam water hose for transferring water to different locations"
+      },
+      "geometry": { "type": "Point", "coordinates": [11.47347, 10.31611, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "12:08:20.000",
+        "Location_o": "DKIS PHASE 1",
+        "Type_of_In": "other",
+        "Type_of__1": "Left and right canal",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1LyK84c2SdZudPXxODzvIroPk9lzad8_6",
+        "Doe this i": "yes",
+        "Please cap": "10.304936666666666,11.494383333333333",
+        "Please c_1": "226.1",
+        "condition": "The right canal supply water to the irrigation storage tank and the left supply the vegfru community"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.494383333333333, 10.30493, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "13:08:20.000",
+        "Location_o": "DKIS PHASE 1",
+        "Type_of_In": "other",
+        "Type_of__1": "Cottage hospital Hinna",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1L21sHfpd6q47A03efi30n_3VzE9hHKiI",
+        "Doe this i": "yes",
+        "Please cap": "10.307025000000001,11.521778333333335",
+        "Please c_1": "426.3",
+        "condition": "Working"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.521778333333335, 10.30702, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "14:08:20.000",
+        "Location_o": "Federal college of horticulture Dadinkowa",
+        "Type_of_In": "other",
+        "Type_of__1": "Federal college Auditorium",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1zZRQ_3ffK_zx6f6JEtvxAtjCUhwOnlWH",
+        "Doe this i": "yes",
+        "Please cap": "10.283055,11.505133333333333",
+        "Please c_1": "123.1",
+        "condition": "Working"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.505133333333333, 10.28305, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "14:08:20.000",
+        "Location_o": "DKIS Federal college of horticulture",
+        "Type_of_In": "other",
+        "Type_of__1": "Water tannks",
+        "Number_of": 3,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1Ghxl3pihfWwuk0kLQ7KH7unACgzjkKWY",
+        "Doe this i": "yes",
+        "Please cap": "10.283053333333333,11.506245000000002",
+        "Please c_1": "160.6",
+        "condition": "Working"
+      },
+      "geometry": { "type": "Point", "coordinates": [11.506245, 10.28305, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "14:08:20.000",
+        "Location_o": "DKIS F C H",
+        "Type_of_In": "other",
+        "Type_of__1": "FCH Auditorium Generator",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=102d6JmySRJdUerLMcip-sW3ATw9IdwLT",
+        "Doe this i": "yes",
+        "Please cap": "10.28225,11.507161666666665",
+        "Please c_1": "160.9",
+        "condition": "Working"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.507161666666665, 10.28225, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "14:08:20.000",
+        "Location_o": "DKIS FCH",
+        "Type_of_In": "other",
+        "Type_of__1": "FCH Weather station",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1r7rn7iPugKdwdAzRCH6OCoCGngZHMoUR",
+        "Doe this i": "yes",
+        "Please cap": "10.282476666666668,11.506306666666667",
+        "Please c_1": "160.9",
+        "condition": "Working"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.506306666666667, 10.28247, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "14:08:20.000",
+        "Location_o": "DKIS FCH",
+        "Type_of_In": "other",
+        "Type_of__1": "Work and maintainace department",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1GELkRqDB1Qhd1La-mJigzzEBXI6JpV8K",
+        "Doe this i": "yes",
+        "Please cap": "10.28087,11.508891666666667",
+        "Please c_1": "214.2",
+        "condition": "Working"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.508891666666667, 10.28087, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "14:08:20.000",
+        "Location_o": "DKIS FCH",
+        "Type_of_In": "other",
+        "Type_of__1": "New Departmental complex",
+        "Number_of": 2,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1Q0HvslBwzwN2FWf6KJ1KEk7ewXh4WmcV",
+        "Doe this i": "yes",
+        "Please cap": "10.280298333333333,11.50641",
+        "Please c_1": "197.7",
+        "condition": "New departmental complex"
+      },
+      "geometry": { "type": "Point", "coordinates": [11.50641, 10.28029, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "14:08:20.000",
+        "Location_o": "DKIS FCH",
+        "Type_of_In": "other",
+        "Type_of__1": "FCH Laboratory complex",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1PFAIih7BwjvhIU_Umoyu5hrcpuk3pKxP",
+        "Doe this i": "yes",
+        "Please cap": "10.28008,11.505738333333333",
+        "Please c_1": "171.9",
+        "condition": "Working"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.505738333333333, 10.28008, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "14:08:20.000",
+        "Location_o": "DKIS FCH",
+        "Type_of_In": "other",
+        "Type_of__1": "FCH Clinic",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=165KIyo2nZEPmeJIlr_uGRhVpUGxmYY-1",
+        "Doe this i": "yes",
+        "Please cap": "10.279438333333333,11.506055",
+        "Please c_1": "425.3",
+        "condition": "Functional"
+      },
+      "geometry": { "type": "Point", "coordinates": [11.506055, 10.27943, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "14:08:20.000",
+        "Location_o": "DKIS FCH",
+        "Type_of_In": "other",
+        "Type_of__1": "Agricultural Technology Department Complex",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=188QDlbOpcPkFeROO29YDL64f9WHZTe_m",
+        "Doe this i": "yes",
+        "Please cap": "10.280863333333334,11.503625",
+        "Please c_1": "501.5",
+        "condition": "Functioning"
+      },
+      "geometry": { "type": "Point", "coordinates": [11.503625, 10.28086, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "14:08:20.000",
+        "Location_o": "DKIS FCH",
+        "Type_of_In": "other",
+        "Type_of__1": "Library Complex",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1xBCkgjxelk4ZZNvx7k9wi7tg2KPQufST",
+        "Doe this i": "yes",
+        "Please cap": "10.281703333333333,11.50174",
+        "Please c_1": "508.6",
+        "condition": "Functioning"
+      },
+      "geometry": { "type": "Point", "coordinates": [11.50174, 10.2817, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "14:08:20.000",
+        "Location_o": "DKIS FCH",
+        "Type_of_In": "other",
+        "Type_of__1": "Admin Block",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1NaKPGOzV2phzfKDVP-qnexrNBZ96PinS",
+        "Doe this i": "yes",
+        "Please cap": "10.281973333333333,11.505028333333334",
+        "Please c_1": "313.5",
+        "condition": "Fuctioning"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.505028333333334, 10.28197, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "14:08:20.000",
+        "Location_o": "DKIS FCH",
+        "Type_of_In": "other",
+        "Type_of__1": "Admin Complex Generator",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1GxoEyTRqqD0lEKyFydp04Fpj2zQoXBUP",
+        "Doe this i": "yes",
+        "Please cap": "10.281461666666667,11.505356666666668",
+        "Please c_1": "256.6",
+        "condition": "Working"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.505356666666668, 10.28146, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "14:08:20.000",
+        "Location_o": "DKIS FCH Veterinary Clinic",
+        "Type_of_In": "other",
+        "Type_of__1": "Vet Clinic",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1KTSaE4oAhl23zzmqWmJAo8IUiBO6VyDV",
+        "Doe this i": "yes",
+        "Please cap": "10.281601666666667,11.502281666666667",
+        "Please c_1": "268.2",
+        "condition": "Working"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.502281666666667, 10.2816, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "14:08:20.000",
+        "Location_o": "DKIS FCH",
+        "Type_of_In": "other",
+        "Type_of__1": "FCH old site water tank",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1mBieyA6XVWH9MBWhV_PTSqAO0D8qqhAS",
+        "Doe this i": "yes",
+        "Please cap": "10.281508333333333,11.500856666666667",
+        "Please c_1": "147.9",
+        "condition": "Working"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.500856666666667, 10.2815, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "14:08:20.000",
+        "Location_o": "DKIS FCH",
+        "Type_of_In": "other",
+        "Type_of__1": "Old site girls hostel transformer",
+        "Number_of": 1,
+        "360 view": "https://kuula.co/share/7gxD6?fs=1&vr=0&sd=1&thumbs=1&info=1&logo=1",
+        "photograph": "https://drive.google.com/open?id=1ol8gJqDGW_oZJOA_LdvxQc-auOfWHkKh",
+        "Doe this i": "yes",
+        "Please cap": "10.281515,11.502401666666666",
+        "Please c_1": "205.9",
+        "condition": "Working"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.502401666666666, 10.28151, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "14:08:20.000",
+        "Location_o": "DKIS FCH",
+        "Type_of_In": "other",
+        "Type_of__1": "FCH old sit girls hostel gen",
+        "Number_of": 1,
+        "360 view": "https://kuula.co/share/7gxXy?fs=1&vr=0&sd=1&thumbs=1&info=1&logo=1",
+        "photograph": "https://drive.google.com/open?id=179GpJdIj1NIqsbZzI8KDyZ_9ZEfApclk",
+        "Doe this i": "yes",
+        "Please cap": "10.28111,11.501513333333332",
+        "Please c_1": "69.3",
+        "condition": "Working"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.501513333333332, 10.28111, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "14:08:20.000",
+        "Location_o": "DKIS FCH",
+        "Type_of_In": "other",
+        "Type_of__1": "FCH old site central warehouse",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1Pmqt9NvBrCgG-HJ6KVGZmBrGHMysRUyJ",
+        "Doe this i": "yes",
+        "Please cap": "10.281803333333333,11.502831666666669",
+        "Please c_1": "357.6",
+        "condition": "Functioning"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.502831666666669, 10.2818, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "14:08:20.000",
+        "Location_o": "DKIS FCH",
+        "Type_of_In": "other",
+        "Type_of__1": "FCH Old site girls hostel",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1_UCPez_2uLbqNoFALa2Zvl-7iQDFNone",
+        "Doe this i": "yes",
+        "Please cap": "10.281848333333333,11.50243",
+        "Please c_1": "204.7",
+        "condition": "Working"
+      },
+      "geometry": { "type": "Point", "coordinates": [11.50243, 10.28184, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "15:08:20.000",
+        "Location_o": "DKIS PHASE II",
+        "Type_of_In": "other",
+        "Type_of__1": "River Nunu",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1n1UG0UhtkGhyrRF6S4SUHDwUTTS-lKKn",
+        "Doe this i": "yes",
+        "Please cap": "10.275926666666667,11.514223333333332",
+        "Please c_1": "434",
+        "condition": "River Nunu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.514223333333332, 10.27592, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "15:08:20.000",
+        "Location_o": "DKIS PHASE II",
+        "Type_of_In": "other",
+        "Type_of__1": "Phase II JSS School and offices",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1GUcWthZisocedIhUoL7xG9_E0l5zFO09",
+        "Doe this i": "yes",
+        "Please cap": "10.265253333333334,11.524628333333332",
+        "Please c_1": "194.5",
+        "condition": "Hore Gari JSS Secondary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.524628333333332, 10.26525, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "15:08:20.000",
+        "Location_o": "DKIS PHASE II",
+        "Type_of_In": "other",
+        "Type_of__1": "School bore hole",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1H_Q3X0wall62KUI5c0ZeRGa_K9BYfdlo",
+        "Doe this i": "yes",
+        "Please cap": "10.275928333333333,11.514216666666668",
+        "Please c_1": "434",
+        "condition": "School bore hole functioning"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.514216666666668, 10.27592, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "15:08:20.000",
+        "Location_o": "DKIS PHASE II",
+        "Type_of_In": "other",
+        "Type_of__1": "Phase ii Old school office",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1QwCrXNXXCPfPkD_3Ml147IWTJPGHWFwa",
+        "Doe this i": "yes",
+        "Please cap": "10.262541666666667,11.528390000000002",
+        "Please c_1": "96.1",
+        "condition": "Phase II. old JSS office"
+      },
+      "geometry": { "type": "Point", "coordinates": [11.52839, 10.26254, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "15:08:20.000",
+        "Location_o": "DKIS PHASE II",
+        "Type_of_In": "other",
+        "Type_of__1": "Customary court",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1_iw89jclLHi0j-5cMBxfSI3EAwLMCDKn",
+        "Doe this i": "yes",
+        "Please cap": "10.27824,11.542531666666665",
+        "Please c_1": "297.9",
+        "condition": "Not working"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.542531666666665, 10.27824, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "15:08:20.000",
+        "Location_o": "DKIS PHASE II",
+        "Type_of_In": "other",
+        "Type_of__1": "Phase II school clinic",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1n_RVUurXipKkI4nOPM-IHNYxx03t3bvd",
+        "Doe this i": "yes",
+        "Please cap": "10.278891666666668,11.544005",
+        "Please c_1": "308.4",
+        "condition": "Working"
+      },
+      "geometry": { "type": "Point", "coordinates": [11.544005, 10.27889, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "15:08:20.000",
+        "Location_o": "DKIS PHASE II",
+        "Type_of_In": "other",
+        "Type_of__1": "School transformer",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1HG62I0KGUjuYxtZH9T676pjxrfjzgxH6",
+        "Doe this i": "yes",
+        "Please cap": "10.279323333333334,11.543963333333332",
+        "Please c_1": "347.4",
+        "condition": "Working"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.543963333333332, 10.27932, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "15:08:20.000",
+        "Location_o": "DKIS PHASE II",
+        "Type_of_In": "other",
+        "Type_of__1": "Phase II old JSS block",
+        "Number_of": 2,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1SCQkTFyY1qJtQXeNZQpSOuf_4GrH_QGr",
+        "Doe this i": "yes",
+        "Please cap": "10.281186666666667,11.54147",
+        "Please c_1": "1076.6",
+        "condition": "School under construction"
+      },
+      "geometry": { "type": "Point", "coordinates": [11.54147, 10.28118, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "17:08:20.000",
+        "Location_o": "DKIS Phase III",
+        "Type_of_In": "other",
+        "Type_of__1": "Inlet canal",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=10W5VaoljPChcezsLzdkr-RVckAkefFk4",
+        "Doe this i": "yes",
+        "Please cap": "10.286215,11.551001666666666",
+        "Please c_1": "523.1",
+        "condition": "Inlet canal that takes water from the sea for irrigation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.551001666666666, 10.28621, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "18:08:20.000",
+        "Location_o": "DKIS NIHORT",
+        "Type_of_In": "other",
+        "Type_of__1": "Farm tractor",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=10PTX8NMDyhBR9aUOB3ew7i6OtY0Sm4c4",
+        "Doe this i": "yes",
+        "Please cap": "10.298786666666667,11.519476666666666",
+        "Please c_1": "463.1",
+        "condition": "Farm Tractor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.519476666666666, 10.29878, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "18:08:20.000",
+        "Location_o": "DKIS NIHORT",
+        "Type_of_In": "other",
+        "Type_of__1": "Diesel Pumping Machine",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1KULb5OFlD97NLJBQwLv9ge5G__xKWaNv",
+        "Doe this i": "yes",
+        "Please cap": "10.299723333333333,11.521271666666667",
+        "Please c_1": "357.7",
+        "condition": "Functional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.521271666666667, 10.29972, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "18:08:20.000",
+        "Location_o": "DKIS NIHORT",
+        "Type_of_In": "other",
+        "Type_of__1": "Mosque",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=10mjHlhWOb_SlgKJfozyq_GamufqhXucN",
+        "Doe this i": "yes",
+        "Please cap": "10.298991666666666,11.520343333333335",
+        "Please c_1": "58.2",
+        "condition": "Functional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.520343333333335, 10.29899, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "18:08:20.000",
+        "Location_o": "DKIS NIHORT",
+        "Type_of_In": "other",
+        "Type_of__1": "Administrative block",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=16452dZNI7WJ8VOBn78f2k2-tgWA8nrJq",
+        "Doe this i": "yes",
+        "Please cap": "10.299085,11.52059",
+        "Please c_1": "300.4",
+        "condition": "Functional"
+      },
+      "geometry": { "type": "Point", "coordinates": [11.52059, 10.29908, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "18:08:20.000",
+        "Location_o": "DKIS NIHORT",
+        "Type_of_In": "other",
+        "Type_of__1": "Nihort warehouse",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1Jdq3iFxWZ2btCm4rHzrm5mHtiDSNNy7Z",
+        "Doe this i": "yes",
+        "Please cap": "10.299205,11.520688333333332",
+        "Please c_1": "344.2",
+        "condition": "Functional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.520688333333332, 10.2992, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "18:08:20.000",
+        "Location_o": "DKIS NIHORT",
+        "Type_of_In": "other",
+        "Type_of__1": "Seedlings House",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1gnq8_o6-tKD8gfB0nm6Rkxu7VnsJ5W1C",
+        "Doe this i": "yes",
+        "Please cap": "10.29899,11.520345",
+        "Please c_1": "344.2",
+        "condition": "Functional"
+      },
+      "geometry": { "type": "Point", "coordinates": [11.520345, 10.29899, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "18:08:20.000",
+        "Location_o": "DKIS NIHORT",
+        "Type_of_In": "other",
+        "Type_of__1": "Borehole water supply tap",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=11K--y3xwQ7wvw0VSCjHLSnwOcRJAmPnc",
+        "Doe this i": "yes",
+        "Please cap": "10.298858333333333,11.5211",
+        "Please c_1": "344.2",
+        "condition": "Functional"
+      },
+      "geometry": { "type": "Point", "coordinates": [11.5211, 10.29885, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "18:08:20.000",
+        "Location_o": "DKIS NIHORT",
+        "Type_of_In": "other",
+        "Type_of__1": "Water storage tank for Irrigation",
+        "Number_of": 2,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1OvlCEnpS4Ww7CgEFLriIbDhnu8VpjDyA",
+        "Doe this i": "yes",
+        "Please cap": "10.299141666666666,11.52043",
+        "Please c_1": "344.2",
+        "condition": "Functional"
+      },
+      "geometry": { "type": "Point", "coordinates": [11.52043, 10.29914, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "13:08:20.000",
+        "Location_o": "Wajari",
+        "Type_of_In": "other",
+        "Type_of__1": "Farm training center",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1LWMBJ7CzS6SAgtLELMsfetI3Ev_U_iFD",
+        "Doe this i": "no",
+        "Please cap": null,
+        "Please c_1": null,
+        "condition": "Not working"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.40882667, 10.28147, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "14:08:20.000",
+        "Location_o": "DKIS FCH",
+        "Type_of_In": "other",
+        "Type_of__1": "New school auditorium",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1nhiTygMUT95KqGv74Y_vW7FN4ZkdAg_Q",
+        "Doe this i": "no",
+        "Please cap": null,
+        "Please c_1": null,
+        "condition": "New school aurditorium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.50742, 10.28168833, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "14:08:20.000",
+        "Location_o": "DKIS FCH",
+        "Type_of_In": "other",
+        "Type_of__1": "FCH Old school hostels",
+        "Number_of": 3,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1wjiHJoi0qFJmiBjNHtqwVYtc3W-Q0i0O",
+        "Doe this i": "no",
+        "Please cap": null,
+        "Please c_1": null,
+        "condition": "Old school hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.50743667, 10.28192167, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "15:08:20.000",
+        "Location_o": "DKIS OLD FCH",
+        "Type_of_In": "other",
+        "Type_of__1": "Old FCH Girls hostel",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1ku9taiBcuRk8f6SbsO0JEe1kIzmtuem1",
+        "Doe this i": "no",
+        "Please cap": null,
+        "Please c_1": null,
+        "condition": "FCH Old Female Hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.50277333, 10.28231333, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "15:08:20.000",
+        "Location_o": "DKIS FCH",
+        "Type_of_In": "other",
+        "Type_of__1": "Federal college of horticulture",
+        "Number_of": 2,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1yKtTCIISnSV07ExEc5bR3DfRLSPLFFUA",
+        "Doe this i": "no",
+        "Please cap": null,
+        "Please c_1": null,
+        "condition": "NEW FCH Polygon shot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.50626833, 10.28363, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "13:08:20.000",
+        "Location_o": "AIFANDI Rice mill DKIS town",
+        "Type_of_In": "other",
+        "Type_of__1": "Rice Mill",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1Mw3UkenpPBNPf9glQSxaqtsGdFqwTNm6",
+        "Doe this i": "no",
+        "Please cap": null,
+        "Please c_1": null,
+        "condition": "Functioning"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.50371667, 10.28579167, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "17:08:20.000",
+        "Location_o": "DKIS PHASE III",
+        "Type_of_In": "other",
+        "Type_of__1": "Phase III Farm boundary",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1NKYvjYctFGLpKDwo7f_J7qDcmEudgClc",
+        "Doe this i": "no",
+        "Please cap": null,
+        "Please c_1": null,
+        "condition": "The 4 polygon of DKIS Phase IIIfarm boundary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.55087667, 10.28706, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "10:08:20.000",
+        "Location_o": null,
+        "Type_of_In": "other",
+        "Type_of__1": "Primary canal",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1CV9_QEwieXoRV4Z-un8GsxAeIdObVkE8",
+        "Doe this i": "no",
+        "Please cap": null,
+        "Please c_1": null,
+        "condition": "Not working"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.508365, 10.288135, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "15:08:20.000",
+        "Location_o": "DKIS PHASE II",
+        "Type_of_In": "other",
+        "Type_of__1": "Nunu River",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1hDNmS-DfDSjDpyzUxLeC1a24YT2Ur1qS",
+        "Doe this i": "no",
+        "Please cap": null,
+        "Please c_1": null,
+        "condition": "Phase II River Nunu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.519515, 10.29115667, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "13:08:20.000",
+        "Location_o": "DKIS MAIN MARKET",
+        "Type_of_In": "other",
+        "Type_of__1": "Main Market",
+        "Number_of": 1,
+        "360 view": "https://kuula.co/share/7gxZ7?fs=1&vr=0&sd=1&thumbs=1&info=1&logo=0",
+        "photograph": "https://drive.google.com/open?id=1XVJgAGEa1ywAyUU8w7AgFN6l6DXnB7Ft",
+        "Doe this i": "no",
+        "Please cap": null,
+        "Please c_1": null,
+        "condition": "Selection days market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.49796833, 10.29551333, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "18:08:20.000",
+        "Location_o": "DKIS NIHORT",
+        "Type_of_In": "other",
+        "Type_of__1": "4Points Polygon",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1RXYa4PtRsfHC9ycji3PZdLIAebyWnS04",
+        "Doe this i": "no",
+        "Please cap": null,
+        "Please c_1": null,
+        "condition": "The 4 Nihort boundaries"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.518935, 10.298005, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": "13:08:20.000",
+        "Location_o": "DKIS PHASE 1",
+        "Type_of_In": "other",
+        "Type_of__1": "General Hospital",
+        "Number_of": 1,
+        "360 view": null,
+        "photograph": "https://drive.google.com/open?id=1V9r3BNJO_F8wni2ErL2HOS_FPrY5GlPz",
+        "Doe this i": "no",
+        "Please cap": null,
+        "Please c_1": null,
+        "condition": "Cottage Hospital Hinna funtioning"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.522405, 10.303465, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "data-Date": null,
+        "Location_o": null,
+        "Type_of_In": null,
+        "Type_of__1": null,
+        "Number_of": 115,
+        "360 view": null,
+        "photograph": null,
+        "Doe this i": null,
+        "Please cap": null,
+        "Please c_1": null,
+        "condition": null
+      },
+      "geometry": null
+    }
+  ]
+}
